@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2024",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Asian History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "World History"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "abee41b1-abed-4caf-b0e7-ed1e561b13a6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "18481b75-4437-47e7-bfdc-2771728c6376",
+    "website": "dynastic-china"
+  },
+  "course_title": "Dynastic China",
+  "hide_download": true,
+  "mit_learn_topics": [],
+  "course_description": "This course examines the first dynasty to 1800. It traces the rise of the world's first centralized bureaucratic state, the development of the world's oldest living written culture, and the formation of the pre-modern world's largest single commercial market. It also studies women and men as they founded dynasties, engaged in philosophy, challenged orthodoxies, and invented technologies used around the globe. Finally, the course explores China's past to understand the country's present, and reflects on what its stories mean for the global world.",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21h.151",
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Readings",
+    "Lecture Videos"
+  ],
+  "site_uid": "e0b100c7-000e-47b9-93ed-787b40955c86",
+  "site_short_id": "21h.151-fall-2024",
+  "site_url_path": "courses/21h-151-dynastic-china-fall-2024"
+}

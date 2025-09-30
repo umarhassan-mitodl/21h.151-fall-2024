@@ -1,0 +1,82 @@
+leftnav:
+- identifier: d8c59412-e319-4087-9db9-73ec92ff50fd
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: cfb27cf0-4557-433a-ba18-ff3d394ee9d8
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 4e6faa8b-04d9-4713-9da9-cc281215a623
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 0af1e7a4-13dd-4ed1-8ed6-455656827259
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: b3c17142-42ca-4669-aa44-536f477762be
+  name: Discussion Posts
+  pageRef: /pages/discussion-posts
+  parent: 0af1e7a4-13dd-4ed1-8ed6-455656827259
+  weight: 10
+- identifier: 80044699-02eb-42af-8629-38b7f449741d
+  name: Week 2 Discussion Post Prompts
+  pageRef: /pages/week-2-discussion-post-prompt
+  parent: b3c17142-42ca-4669-aa44-536f477762be
+  weight: 10
+- identifier: d61bb957-49c9-4735-9514-b17d38e4dc8b
+  name: Week 3 Discussion Post Prompts
+  pageRef: /pages/week-3-discussion-post-prompt
+  parent: b3c17142-42ca-4669-aa44-536f477762be
+  weight: 20
+- identifier: cbe4b4cd-116e-4136-ae19-8f3e96209710
+  name: Week 4 Discussion Post Prompts
+  pageRef: /pages/week-4-discussion-post-prompt
+  parent: b3c17142-42ca-4669-aa44-536f477762be
+  weight: 30
+- identifier: 3c275e5b-0908-463c-9686-74691a3b9514
+  name: Week 5 Discussion Post Prompts
+  pageRef: /pages/week-5-discussion-post-prompt
+  parent: b3c17142-42ca-4669-aa44-536f477762be
+  weight: 40
+- identifier: a4a2164d-cd24-4547-80d6-d5180a923013
+  name: Week 6 Discussion Post Prompts
+  pageRef: /pages/week-6-discussion-post-prompt
+  parent: b3c17142-42ca-4669-aa44-536f477762be
+  weight: 50
+- identifier: 0b439c34-a746-43cc-a672-ab5d29dfdbde
+  name: Week 7 Discussion Post Prompts
+  pageRef: /pages/week-7-discussion-post-prompt
+  parent: b3c17142-42ca-4669-aa44-536f477762be
+  weight: 60
+- identifier: 96c8198e-f627-484a-88d6-e5c768cbacf5
+  name: Week 8 Discussion Post Prompts
+  pageRef: /pages/week-8-discussion-post-prompt
+  parent: b3c17142-42ca-4669-aa44-536f477762be
+  weight: 70
+- identifier: b743440c-cbe5-46c5-810d-583116de95ea
+  name: Week 10 Discussion Post Prompts
+  pageRef: /pages/week-10-discussion-post-prompts
+  parent: b3c17142-42ca-4669-aa44-536f477762be
+  weight: 80
+- identifier: 064898ce-e5b6-4c72-9f3c-429b443986e8
+  name: Week 11 Discussion Post Prompts
+  pageRef: /pages/week-11-discussion-prompts
+  parent: b3c17142-42ca-4669-aa44-536f477762be
+  weight: 90
+- identifier: 08f3a0ef-89eb-47bc-902b-f3d1800c8b62
+  name: Week 12 Discussion Post Prompts
+  pageRef: /pages/week-12-discussion-post-prompts
+  parent: b3c17142-42ca-4669-aa44-536f477762be
+  weight: 100
+- identifier: bdd16d49-378a-45c2-9c35-d795d58f2595
+  name: Week 13 Discussion Post Prompts
+  pageRef: /pages/week-13-discussion-post-prompts
+  parent: b3c17142-42ca-4669-aa44-536f477762be
+  weight: 110
+- identifier: 7f25c0f2-8d87-4925-a264-c56158c75091
+  name: Week 14 Discussion Post Prompts
+  pageRef: /pages/week-14-discussion-posts-prompts
+  parent: b3c17142-42ca-4669-aa44-536f477762be
+  weight: 120
