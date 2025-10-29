@@ -5,7 +5,7 @@ draft: false
 title: Week 5 Discussion Post Prompts
 uid: 3c275e5b-0908-463c-9686-74691a3b9514
 ---
-**Special Instructions for This Week**: We are having a guest lecture by [Professor Yunxin Li](https://www.simmons.edu/people/yunxin-li) concerning the history of the Eastern Han Dynasty. While you should still read the other primary sources assigned for this week ("Han Economy and History Writing"), I'd like you to particularly focus on Ban Gu's "Two Capitals Rhapsody," as Professor Li will discuss it with you. The Rhapsody is a challenging text. It contains the names of many Han-era figures, plus specific places, and technical terms. I told Professor Li that this class is capable of handling it, so this is an opportunity for you to showcase your many analytical, critical thinking, and creative skills! 
+**Special Instructions for This Week**: We are having a guest lecture by {{% resource_link "25c4caac-e203-4a02-b67d-9fea6685003e" "Professor Yunxin Li" %}} concerning the history of the Eastern Han Dynasty. While you should still read the other primary sources assigned for this week ("Han Economy and History Writing"), I'd like you to particularly focus on Ban Gu's "Two Capitals Rhapsody," as Professor Li will discuss it with you. The Rhapsody is a challenging text. It contains the names of many Han-era figures, plus specific places, and technical terms. I told Professor Li that this class is capable of handling it, so this is an opportunity for you to showcase your many analytical, critical thinking, and creative skills! 
 
 *Answer one of the following questions in two paragraphs and then comment on one of your classmates' posts in 2–3 sentences.*
 

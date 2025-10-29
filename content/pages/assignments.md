@@ -15,11 +15,11 @@ For more detail, see the {{% resource_link "b3c17142-42ca-4669-aa44-536f477762be
 
 **Timelines will be due by the last class of the term: Session 27.**
 
-To construct your timeline, proceed to [Timeline at knight lab](https://timeline.knightlab.com/). 
+To construct your timeline, proceed to {{% resource_link "f51eb15b-fe01-462a-b741-375e12a3201a" "Timeline at knight lab" %}}. 
 
 Create a timeline of a trend or topic in dynastic China with at least 15–20 key moments. 
 
-Consider the following example, which received a top mark in 2023: [Historiography of Cao Cao](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1PMfU70tH0SMy_qDJx_IJyO3dvYnJ0t4Er50rGZUo0Xg&font=Default&lang=en&initial_zoom=2&height=750).
+Consider the following example, which received a top mark in 2023: {{% resource_link "dbcf2927-2b84-45c6-bcf8-fd5808eb20e6" "Historiography of Cao Cao" %}}.
 
 Feel free to get creative. You could choose topics such as "Female Regents in Chinese History," "Life of the Yongle Emperor," "Life of Li Bai," or "The Evolution of Fashion in Medieval China." If there's a particular place you're interested in - like Hangzhou or Suzhou - you could do a timeline on the history of that place. Some of you may be interested in the history of Chinese currency, the evolution of the Three Kingdoms story over time, or the kinds of weapons used in warfare across time. Some of you may wish to delve into family histories of the places in China or Taiwan where your parents or grandparents were born. All of these could be excellent projects. 
 

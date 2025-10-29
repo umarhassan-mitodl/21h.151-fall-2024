@@ -7,8 +7,8 @@ file_size: 375423
 file_type: image/jpeg
 image_metadata:
   caption: "*Activities of Minister of War, Wang Qiong (1459\u20131532)* (1736). (Source:\
-    \ [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ming_Dynasty_Activities_of_Minister_of_War_Wang_Qiong.jpg).\
-    \ This image is in the public domain.)"
+    \ {{% resource_link \"eeecf939-2ca5-4f6b-b68d-95246faa1a46\" \"Wikimedia Commons\"\
+    \ %}}. This image is in the public domain.)"
   credit: ''
   image-alt: A man, with a thin goatee and wearing an elaborate red robe, sits at
     a desk while a group of men observe.

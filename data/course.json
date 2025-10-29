@@ -28,7 +28,7 @@
     "website": "dynastic-china"
   },
   "course_title": "Dynastic China",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "This course examines the first dynasty to 1800. It traces the rise of the world's first centralized bureaucratic state, the development of the world's oldest living written culture, and the formation of the pre-modern world's largest single commercial market. It also studies women and men as they founded dynasties, engaged in philosophy, challenged orthodoxies, and invented technologies used around the globe. Finally, the course explores China's past to understand the country's present, and reflects on what its stories mean for the global world.",
   "department_numbers": [
@@ -36,7 +36,6 @@
   ],
   "extra_course_numbers": "",
   "primary_course_number": "21h.151",
-  "hide_download_original": false,
   "learning_resource_types": [
     "Readings",
     "Lecture Videos"
